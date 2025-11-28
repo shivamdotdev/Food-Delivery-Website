@@ -25,6 +25,7 @@ import image24 from "./assets/image24.avif";
 import image25 from "./assets/image25.avif";
 
 export const food_items = [
+    {"id": 12, "food_name": "Chicken Burger", "food_category": "burger", "food_type": "non_veg", "food_quantity": 1, "food_image": image12, "price": 599},
     {"id": 1, "food_name": "Pancakes", "food_category": "breakfast", "food_type": "veg", "food_quantity": 1, "food_image": image1, "price": 499},
     {"id": 2, "food_name": "Chicken Soup", "food_category": "soups", "food_type": "non_veg", "food_quantity": 1, "food_image": image2, "price": 399},
     {"id": 3, "food_name": "Minestrone Soup", "food_category": "soups", "food_type": "veg", "food_quantity": 1, "food_image": image3, "price": 349},
@@ -36,7 +37,6 @@ export const food_items = [
     {"id": 9, "food_name": "Margherita Pizza", "food_category": "pizza", "food_type": "veg", "food_quantity": 1, "food_image": image9, "price": 649},
     {"id": 10, "food_name": "Pepperoni Pizza", "food_category": "pizza", "food_type": "non_veg", "food_quantity": 1, "food_image": image10, "price": 749},
     {"id": 11, "food_name": "Veggie Burger", "food_category": "burger", "food_type": "veg", "food_quantity": 1, "food_image": image11, "price": 499},
-    {"id": 12, "food_name": "Chicken Burger", "food_category": "burger", "food_type": "non_veg", "food_quantity": 1, "food_image": image12, "price": 599},
     {"id": 13, "food_name": "Tomato Soup", "food_category": "soups", "food_type": "veg", "food_quantity": 1, "food_image": image13, "price": 299},
     {"id": 14, "food_name": "Egg Sandwich", "food_category": "breakfast", "food_type": "non_veg", "food_quantity": 1, "food_image": image14, "price": 349},
     {"id": 15, "food_name": "Mushroom Soup", "food_category": "soups", "food_type": "veg", "food_quantity": 1, "food_image": image15, "price": 349},
